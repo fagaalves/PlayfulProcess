@@ -5,96 +5,87 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="PlayfulProcess: Bringing projects to life with secure attachment">
   <title>PlayfulProcess</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
-      font-family: 'Roboto', sans-serif;
+      font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f0f4f8;
+      background-color: #f4f4f4;
       color: #333;
     }
     header {
-      background-color: #4a90e2;
-      padding: 40px 20px;
-      text-align: center;
+      background-color: #0066cc;
+      padding: 20px;
       color: white;
+      text-align: center;
     }
     header h1 {
-      font-size: 3em;
-      font-family: 'Poppins', sans-serif;
+      font-size: 2.5em;
       margin: 0;
     }
-    header p {
-      font-size: 1.2em;
-      font-weight: 300;
+    .intro-section {
+      text-align: center;
+      padding: 50px 20px;
     }
-    .hero-button {
-      background-color: #ff7e00;
+    .intro-section h2 {
+      font-size: 2em;
+      color: #0066cc;
+    }
+    .cta-button {
+      background-color: #ff6600;
       color: white;
-      padding: 15px 30px;
       font-size: 1.2em;
+      padding: 15px 30px;
       text-decoration: none;
       border-radius: 5px;
       margin-top: 20px;
-      transition: background-color 0.3s ease;
+      display: inline-block;
     }
-    .hero-button:hover {
-      background-color: #f57c00;
+    .cta-button:hover {
+      background-color: #ff4500;
     }
-    .section {
-      padding: 60px 20px;
+    .about-section {
+      background-color: white;
+      padding: 50px 20px;
       text-align: center;
     }
-    .section h2 {
-      font-size: 2.5em;
-      color: #4a90e2;
+    .about-section h3 {
+      font-size: 2em;
+      color: #333;
     }
-    .section p {
+    .about-section p {
       font-size: 1.2em;
-      line-height: 1.6;
-      color: #666;
+      color: #555;
       max-width: 800px;
-      margin: 20px auto;
+      margin: 0 auto;
     }
-    .section a {
-      text-decoration: none;
-      color: white;
-      background-color: #4a90e2;
-      padding: 12px 25px;
-      border-radius: 5px;
-      font-size: 1.1em;
-      transition: background-color 0.3s ease;
+    .features-section {
+      background-color: #f9f9f9;
+      padding: 50px 20px;
+      text-align: center;
     }
-    .section a:hover {
-      background-color: #357ab7;
+    .features-section h3 {
+      font-size: 2em;
+      color: #0066cc;
     }
     .feature-box {
       display: inline-block;
       width: 30%;
-      padding: 25px;
+      margin: 10px;
       background-color: white;
-      margin: 15px;
-      border-radius: 10px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-      text-align: center;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     }
-    footer {
-      background-color: #4a90e2;
+    .footer {
+      background-color: #333;
       color: white;
       padding: 20px;
       text-align: center;
     }
-    footer a {
+    .footer a {
       color: white;
       text-decoration: none;
-      font-weight: 600;
-    }
-    @media (max-width: 768px) {
-      .feature-box {
-        width: 80%;
-        margin: 20px auto;
-      }
     }
   </style>
 </head>
@@ -102,14 +93,50 @@
   <header>
     <h1>Welcome to PlayfulProcess</h1>
     <p>Bringing Projects to Life with Secure Attachment</p>
-    <a href="#get-involved" class="hero-button">Get Involved</a>
   </header>
 
-  <section class="section" id="about">
-    <h2>About PlayfulProcess</h2>
-    <p>PlayfulProcess is an LLC dedicated to manifesting innovative projects with philosophical grounding. Our first venture, **Jongu**, is built on the value of **secure attachment**. This platform encourages connection, creativity, and personal growth through interactive tools and community-driven creation.</p>
+  <section class="intro-section">
+    <h2>Your Journey of Exploration Starts Here</h2>
+    <p>Join us in creating **Jongu**, a platform focused on secure attachment and creative growth through collaborative exploration.</p>
+    <a href="#get-involved" class="cta-button">Get Involved</a>
   </section>
 
-  <section class="section" id="core">
-    <h2>Discover the Core of Jongu</h2>
-    <div class
+  <section class="about-section">
+    <h3>About PlayfulProcess</h3>
+    <p>PlayfulProcess is an LLC dedicated to manifesting innovative projects with philosophical grounding. Our first venture, **Jongu**, is built on the value of **secure attachment**. This platform will encourage connection, creativity, and personal growth through interactive tools and community-driven creation.</p>
+  </section>
+
+  <section class="features-section">
+    <h3>Discover the Core of Jongu</h3>
+    <div class="feature-box">
+      <h4>Jongu Cards</h4>
+      <p>Interactive card experiences to explore relationships and personal growth.</p>
+    </div>
+    <div class="feature-box">
+      <h4>Jongu Writing</h4>
+      <p>Collaborative storytelling and reflective journaling tools for personal expression.</p>
+    </div>
+    <div class="feature-box">
+      <h4>Jongu Learning</h4>
+      <p>Step-by-step learning experiences on relationship topics, integrating interactive elements.</p>
+    </div>
+  </section>
+
+  <section class="about-section" id="get-involved">
+    <h3>Get Involved with PlayfulProcess</h3>
+    <p>Help shape the future of **Jongu** by collaborating with us. Here's how you can contribute:</p>
+    <ul>
+      <li>Provide feedback on our <a href="link_to_pdf" target="_blank">Business Plan</a>.</li>
+      <li>Vote for the **Jongu Logo**.</li>
+      <li>Collaborate on creating **Jongu GPTs**.</li>
+      <li>Help us write a Manifesto with **Secure Attachment** at its core.</li>
+    </ul>
+    <a href="https://github.com/your_repo_link" class="cta-button">Start Collaborating on GitHub</a>
+  </section>
+
+  <footer class="footer">
+    <p>Follow us on <a href="your_substack_link" target="_blank">Substack</a> for updates and more.</p>
+    <p>&copy; 2025 PlayfulProcess LLC</p>
+  </footer>
+</body>
+</html>
