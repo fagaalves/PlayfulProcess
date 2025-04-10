@@ -21,7 +21,7 @@ Grounded in Marriage and Family Therapy, Nonviolent Communication, and the power
 
 2. **Co-Create the Future**
    - Explore how Jongu can evolve with your unique perspective
-   - Be a founding contributor to a revolutionary approach to personal growth by becoming a paid subscriber at our [Substack] (https://lifeisprocess.substack.com/)
+   - Be a founding contributor to a revolutionary approach to personal growth by becoming a paid subscriber at our [Substack](https://lifeisprocess.substack.com/)
 
 ### Our Guiding Principle: Secure Attachment
 
