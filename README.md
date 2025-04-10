@@ -15,14 +15,13 @@ Grounded in Marriage and Family Therapy, Nonviolent Communication, and the power
 ### How You Can Participate:
 
 1. **Dive into the Conversation**
-   - [Subscribe to my Substack](https://your-substack-link)
+   - [Subscribe to my Substack](https://lifeisprocess.substack.com/)
    - Engage in raw, meaningful discussions about personal transformation
    - Share your own journey of becoming
 
 2. **Co-Create the Future**
-   - [Schedule a Discovery Call](https://your-booking-link)
    - Explore how Jongu can evolve with your unique perspective
-   - Be a founding contributor to a revolutionary approach to personal growth
+   - Be a founding contributor to a revolutionary approach to personal growth by becoming a paid subscriber at our [Substack] (https://lifeisprocess.substack.com/)
 
 ### Our Guiding Principle: Secure Attachment
 
@@ -37,6 +36,6 @@ We believe true healing happens when we create safe, consistent, and responsive 
 
 **Are you ready to connect and create together?**
 
-[Join Now] [Schedule a Call]
+[Temporary Landing Page](https://jongu.org/)
 
 *Powered by creativity. Committed to connection. Dedicated to becoming.*
